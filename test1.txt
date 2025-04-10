@@ -1,1 +1,2 @@
 This is my first git lesson
+lets play around git hub
