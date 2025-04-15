@@ -1,2 +1,3 @@
 This is my first git lesson
 lets play around git hub
+secound day in git
